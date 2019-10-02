@@ -8,6 +8,10 @@ $apt update && apt upgrade -y
 
 $pkg install git -y
 
+$git clone https://github.com/puja04122003/webdav74
+
+$cd webdav74
+
 $pkg install curl && pkg install zsh
 
 $zsh webdav74.zsh
