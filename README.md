@@ -21,6 +21,6 @@ $chmod +x WEBDAV74
 
 $python2 WEBDAV74.py
 
-
+password: puja_gans
 #lalu lanjutkan dan ikuti petunjuknya
 #mohon maaf ada kesalahan kata di sc itu uehe
