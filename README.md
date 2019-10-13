@@ -19,7 +19,7 @@ $pkg install curl && pkg install zsh
 $chmod +x WEBDAV74
 
 
-$./WEBDAV
+$python2 WEBDAV74.py
 
 
 #lalu lanjutkan dan ikuti petunjuknya
